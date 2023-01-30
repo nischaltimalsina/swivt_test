@@ -1,0 +1,10 @@
+@tailwind components;
+
+@layer components {
+    .topbar{
+        @apply bg-[#1D262A]
+    }
+  .coupon_heading {
+    @apply font-semibold text-[50.2178px] leading-[56.85px];
+  }
+}
